@@ -1,8 +1,8 @@
-# Citibike Business Analysis
+# Citibike Business Intelligence
 
 ## Brief Description
 
-Citi Bike is a bike share system and becomes one of the essential part of New York City’s transportation. However, sometimes the Citi Bike serviec is not satisfactory. During the morning and the afternoon, people usually found that there is no available bike left for rental. Thus it is necessary to use machine learning technologies to provide better service through predicting the total bike rented at each station.
+Citi Bike is a bike share system and becomes one of the essential part of New York City’s transportation. However, sometimes the Citi Bike serviec is not satisfactory. During the morning and the afternoon, people usually found that there is no available bike left for rental.Cancel changes Thus it is necessary to use machine learning technologies to provide better service through predicting the total bike rented at each station.
 
 ## Project Structure
 
