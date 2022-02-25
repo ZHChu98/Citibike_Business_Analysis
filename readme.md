@@ -7,6 +7,6 @@ Citi Bike is a bike share system and becomes one of the essential part of New Yo
 ## Project Structure
 
 1. Read and clean the data using *Pandas*
-2. Preprocess the data by adding features and select target variables
+2. Preprocess the data by feature engineering
 3. Use the classical machine learning model to predict on both pre-pandemic and post-pandemic data
 4. Implement neural network (which still needs to be fine-tuned to performance well)
